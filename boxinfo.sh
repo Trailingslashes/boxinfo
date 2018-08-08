@@ -30,7 +30,7 @@ fi
 # what's my OS?
 echo " "
 echo "OS Build:"
-cat /etc/issue.net |grep CentOS
+cat /etc/issue
 echo " "
 
 # CPU info
